@@ -84,7 +84,7 @@ python3 main.py -f </PATH/TO/YOUR/CSV/FILE/datasetname.csv>
 
 * **Meike Zehlike** - *Initiator* - [MilkaLichtblau](https://github.com/MilkaLichtblau)
 
-See also the list of [contributors](https://github.com/megantosh/fairness_measures/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/megantosh/fairness_measures_code/graphs/contributors) who participated in this project.
 
 ### License/Credit
 
